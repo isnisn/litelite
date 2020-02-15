@@ -1,0 +1,204 @@
+## [2020-02-14 21:08:39] Request #######################################
+
+GET /feeds/discussions.rss HTTP/1.1
+Host: www.litecart.net
+User-Agent: LiteCart/2.2.1
+Content-Length: 0
+Connection: Close
+
+
+
+## [2020-02-14 21:08:39] Response — 9327 bytes transferred in 0.176 s ##
+
+HTTP/1.1 200 OK
+Date: Fri, 14 Feb 2020 20:08:39 GMT
+Content-Type: application/rss+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d883d91b7cd631fdf07fa5c6e55fc3d711581710919; expires=Sun, 15-Mar-20 20:08:39 GMT; path=/; domain=.litecart.net; HttpOnly; SameSite=Lax
+Cache-Control: no-store, no-cache, must-revalidate
+Cf-Railgun: direct (starting new WAN connection)
+Content-Language: en
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Set-Cookie: LCSESSID=5e1b906fbb226cc640d50765eaeec3b7; path=/
+Vary: Accept-Encoding
+X-Powered-By: LiteCart.net
+X-Turbo-Charged-By: LiteSpeed
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Alt-Svc: h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 5651acddb963d8a5-CPH
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>LiteCart Forum Discussions</title>
+    <link>https://www.litecart.net/forums/index</link>
+    <description>The most recent forum activity.</description>
+    <language>en</language>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Edit Products : Get Currency Decimals]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/11302/edit-products-get-currency-decimals</link>
+      <description></description>
+      <author><![CDATA[michaelmo]]></author>
+      <pubDate>Fri, 14 Feb 2020 16:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Different store info by language]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/10164/different-store-info-by-language</link>
+      <description></description>
+      <author><![CDATA[aquaclimat]]></author>
+      <pubDate>Fri, 14 Feb 2020 11:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Error while updating cart]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/11300/error-while-updating-cart</link>
+      <description></description>
+      <author><![CDATA[qvistnet]]></author>
+      <pubDate>Fri, 14 Feb 2020 10:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Hire a Freelancer]]></category>
+      <title><![CDATA[Freelancer for installation]]></title>
+      <link>https://www.litecart.net/en/forums/19/hire-a-freelancer/11299/freelancer-for-installation</link>
+      <description></description>
+      <author><![CDATA[ettorepeyrot]]></author>
+      <pubDate>Fri, 14 Feb 2020 02:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Google schema markup issue]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/11281/google-schema-markup-issue</link>
+      <description></description>
+      <author><![CDATA[alins]]></author>
+      <pubDate>Fri, 14 Feb 2020 01:41:53 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[What are Attribute Groups?]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/11296/what-are-attribute-groups</link>
+      <description></description>
+      <author><![CDATA[insanebear]]></author>
+      <pubDate>Thu, 13 Feb 2020 00:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Difference between link() and ilink()?]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/11293/difference-between-link-and-ilink</link>
+      <description></description>
+      <author><![CDATA[michaelmo]]></author>
+      <pubDate>Wed, 12 Feb 2020 13:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[email on unprocessed orders]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/11265/email-on-unprocessed-orders</link>
+      <description></description>
+      <author><![CDATA[wjwebsol]]></author>
+      <pubDate>Wed, 12 Feb 2020 05:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Group products]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/11266/group-products</link>
+      <description></description>
+      <author><![CDATA[patronbutiken]]></author>
+      <pubDate>Tue, 11 Feb 2020 19:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Pre-order page not working with 2.2.1]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/11287/pre-order-page-not-working-with-2-2-1</link>
+      <description></description>
+      <author><![CDATA[johnny_v]]></author>
+      <pubDate>Tue, 11 Feb 2020 16:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Hidden sold out item still appears in the catalog.]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/11286/hidden-sold-out-item-still-appears-in-the-catalog</link>
+      <description></description>
+      <author><![CDATA[johnny_v]]></author>
+      <pubDate>Mon, 10 Feb 2020 15:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Issue with product selling more than stock qty.]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/11233/issue-with-product-selling-more-than-stock-qty</link>
+      <description></description>
+      <author><![CDATA[johnny_v]]></author>
+      <pubDate>Mon, 10 Feb 2020 15:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Litecart doesn't send order confirmations]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/11273/litecart-doesnt-send-order-confirmations</link>
+      <description></description>
+      <author><![CDATA[user7459]]></author>
+      <pubDate>Sun, 09 Feb 2020 14:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Need help understanding error report]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/11264/need-help-understanding-error-report</link>
+      <description></description>
+      <author><![CDATA[xyncro]]></author>
+      <pubDate>Sun, 09 Feb 2020 10:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Different merchant order email address?]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/11267/different-merchant-order-email-address</link>
+      <description></description>
+      <author><![CDATA[s22_tech]]></author>
+      <pubDate>Sat, 08 Feb 2020 00:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[How to autoload third party library?]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/11260/how-to-autoload-third-party-library</link>
+      <description></description>
+      <author><![CDATA[linhc]]></author>
+      <pubDate>Thu, 06 Feb 2020 21:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Overlapping elements in the invoice PDF]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/11255/overlapping-elements-in-the-invoice-pdf</link>
+      <description></description>
+      <author><![CDATA[johnny_v]]></author>
+      <pubDate>Wed, 05 Feb 2020 18:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[Proposed change to ent_order.inc.php]]></title>
+      <link>https://www.litecart.net/en/forums/5/feature-requests/11256/proposed-change-to-ent-order-inc-php</link>
+      <description></description>
+      <author><![CDATA[s22_tech]]></author>
+      <pubDate>Tue, 04 Feb 2020 20:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Problem with total tax.. roundings..]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/2586/problem-with-total-tax-roundings</link>
+      <description></description>
+      <author><![CDATA[astrogen]]></author>
+      <pubDate>Tue, 04 Feb 2020 12:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Problem updating the pictures of the categories ..]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/11246/problem-updating-the-pictures-of-the-categories</link>
+      <description></description>
+      <author><![CDATA[emi]]></author>
+      <pubDate>Tue, 04 Feb 2020 12:06:58 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
+
+
